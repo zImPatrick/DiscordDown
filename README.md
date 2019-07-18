@@ -1,3 +1,2 @@
-DiscordDown
-###
-Dies ist ein Tool, mit dem du checken kannst ob Discord down ist.
+# DiscordDown
+Dies ist ein Tool mit dem du checken kannst ob schon etwas auf `status.discordapp.com` gesagt wurde.
